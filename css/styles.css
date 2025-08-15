@@ -24,8 +24,8 @@ a {
     color: #2E2F42;
 }
 
-a:hover,
-a:focus {
+header a:hover,
+header a:focus {
     color: #404BBF;
 }
 
@@ -69,12 +69,15 @@ p {
 .logo-footer {
     color: white;
     font-size: 24px;
-    padding: 100px 100px 1020px;
+
+
 }
 
 .logo-footer span {
     color: #4D5AE5;
 }
+
+
 
 button:hover {
     background-color: #404BBF;
